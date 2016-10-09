@@ -3,7 +3,7 @@ Monitor all critical logs for rDSN applications in cluster
 
 ### Problem
 
-Something bad happens in the cluster, and we don't know why.
+Something bad happens in the cluster, and we don't know why as the critical logs are buried in the log files on many machines.
 
 ### Solution
 
